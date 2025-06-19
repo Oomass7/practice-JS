@@ -68,16 +68,16 @@ console.log(result)
 // }
 
 //Exercise 8
-var age = prompt("Ingresa tu edad:")
-var country = prompt("¿Eres de colombia?", "si-no")
+// var age = prompt("Ingresa tu edad:")
+// var country = prompt("¿Eres de colombia?", "si-no")
 
-if (age >= 15 && age <= 35 && country == "si") {
-    alert("Puedes participar")
-} else if (age < 15 || age > 35 || country == "no") {
-    alert("No puedes participar")
-} 
+// if (age >= 15 && age <= 35 && country == "si") {
+//     alert("Puedes participar")
+// } else if (age < 15 || age > 35 || country == "no") {
+//     alert("No puedes participar")
+// } 
 
-
+//
 
 
 
