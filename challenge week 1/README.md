@@ -9,3 +9,7 @@ Y descomentar lo que se muestra en la siguiente imagen:
 ![alt text](image-1.png)
 
 Ademas de esto en la condicion verifique de que el usuario ingrese una edad mayor a 0 para que el sistema tenga coherencia.
+
+Link del repositorio: https://github.com/Oomass7/practice-JS
+
+PSDT: en un futuro añadire una interfaz grafica para que se pueda interactuar con los ejercicios desde el github pages.
